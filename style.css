@@ -1,0 +1,15 @@
+.block1 {
+    background-color: black;
+    color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    }
+    
+    .block1 .content {
+    width: 40%;
+    }
+    
+    .block1 .content h1 {
+      font-size: 70px;
+    }
